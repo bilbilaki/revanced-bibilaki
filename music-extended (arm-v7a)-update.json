@@ -1,6 +1,6 @@
 {
   "version": "v6.31.55",
-  "versionCode": 20220922,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220922/music-revanced-extended-magisk-v6.31.55-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "versionCode": 1,
+  "zipUrl": "https://github.com/bilbilaki/revanced-bibilaki/releases/download/1/yt-music-none-magisk-v6.31.55-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/bilbilaki/revanced-bibilaki/update/build.md"
 }
