@@ -1,7 +1,8 @@
 Music-Extended (arm64-v8a): 6.33.50  
 YTMusic (arm64-v8a): 6.33.50  
-Twitch: 17.6.1  
 YouTube-Extended: 18.46.43  
+YTMusic (arm-v7a): 6.33.50  
+Twitch: 17.6.1  
 Twitter: 10.22.0-release.0  
 YouTube: 18.49.36  
 
